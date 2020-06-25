@@ -9,12 +9,41 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
+    
+    
+    
+    
+    
+   
+    
+    @IBAction func enchiladas(_ sender: Any) {
+        UIApplication.shared.open(URL(string: "https://www.gimmesomeoven.com/best-chicken-enchiladas-ever/")! as URL, options: [:], completionHandler: nil)
     }
+    
+    
+    @IBAction func ahiTuna(_ sender: Any) {
+        
+        UIApplication.shared.open(URL(string: "http://www.withsaltandpepper.com/2017/01/04/sesame-tuna-wraps/")! as URL, options: [:], completionHandler: nil)
+        
+    }
+    
+    
+    
+    override func viewDidLoad() {
+        
+        super.viewDidLoad()
+        
+       // enchiladas.addTarget(self, action: #selector(openLink), for: .touchUpInside)
+        
+    }
+    
+    
 
-
-}
+    
+    
+   
+    }
+    
+    
+    
 
