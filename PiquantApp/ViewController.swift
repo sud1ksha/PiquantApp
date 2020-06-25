@@ -10,13 +10,19 @@ import UIKit
 
 class ViewController: UIViewController {
     
+  
+           
+          
+        
+        // enchiladas.addTarget(self, action: #selector(openLink), for: .touchUpInside)
+           
     
     
     
     
    
     
-    @IBAction func enchiladas(_ sender: Any) {
+   @IBAction func enchiladas(_ sender: Any) {
         UIApplication.shared.open(URL(string: "https://www.gimmesomeoven.com/best-chicken-enchiladas-ever/")! as URL, options: [:], completionHandler: nil)
     }
     
@@ -28,13 +34,10 @@ class ViewController: UIViewController {
     }
     
     
+      override func viewDidLoad() {
+             super.viewDidLoad()
     
-    override func viewDidLoad() {
-        
-        super.viewDidLoad()
-        
-       // enchiladas.addTarget(self, action: #selector(openLink), for: .touchUpInside)
-        
+   
     }
     
     

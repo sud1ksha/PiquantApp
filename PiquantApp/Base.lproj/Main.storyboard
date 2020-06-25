@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="hRY-If-0F3">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
@@ -12,7 +12,7 @@
             <objects>
                 <viewController id="NhK-E3-Anl" customClass="ViewController" customModule="PiquantApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="9pJ-HL-Qlp">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="all recipes 1" translatesAutoresizingMaskIntoConstraints="NO" id="BDr-WD-loX">
@@ -131,7 +131,7 @@
             <objects>
                 <viewController id="TRO-pg-zwW" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Li4-NU-sJs">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="gluten free 1" translatesAutoresizingMaskIntoConstraints="NO" id="5C0-bj-VHR">
@@ -235,7 +235,7 @@
             <objects>
                 <viewController id="zlc-3d-vjq" customClass="ViewController" customModule="PiquantApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="efb-kg-f6N">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="vegan 1" translatesAutoresizingMaskIntoConstraints="NO" id="4wM-HO-LzD">
@@ -339,7 +339,7 @@
             <objects>
                 <viewController id="djR-lA-c7w" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="v7b-fX-jA2">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="veg 1" translatesAutoresizingMaskIntoConstraints="NO" id="7pn-0a-0pl">
@@ -443,7 +443,7 @@
             <objects>
                 <viewController id="e4M-7L-am1" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Hpq-4x-c9a">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Dairy Free Recipes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="svf-Kv-14s">
@@ -654,17 +654,18 @@
                         <color key="backgroundColor" systemColor="systemGray6Color" red="0.94901960780000005" green="0.94901960780000005" blue="0.96862745100000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <navigationItem key="navigationItem" id="yWL-gJ-YJi"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="228.98550724637684" y="301.33928571428572"/>
+            <point key="canvasLocation" x="1139.1304347826087" y="301.33928571428572"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="rv7-HP-30F">
             <objects>
                 <viewController id="E0i-Zg-oMD" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="MZh-m2-fv9">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="nut free 1" translatesAutoresizingMaskIntoConstraints="NO" id="WgO-WV-8fZ">
@@ -760,14 +761,14 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ipu-yc-MXQ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="960.86956521739137" y="22.767857142857142"/>
+            <point key="canvasLocation" x="1871.0144927536232" y="22.767857142857142"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="uoc-lk-tUU">
             <objects>
                 <viewController id="VrF-vh-BXt" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="6GP-Uz-saT">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Your Recipes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="a0W-gx-CPQ">
@@ -785,32 +786,75 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="yyc-R5-laD" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="969" y="671"/>
+            <point key="canvasLocation" x="1878.2608695652175" y="670.98214285714278"/>
         </scene>
-        <!--View Controller-->
+        <!--Import View Controller-->
         <scene sceneID="hHp-PY-Pcs">
             <objects>
-                <viewController id="Lbr-D8-bzm" sceneMemberID="viewController">
+                <viewController id="Lbr-D8-bzm" customClass="ImportViewController" customModule="PiquantApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Tsu-G4-Ryu">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Import Recipes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Zil-Wu-4xA">
-                                <rect key="frame" x="149" y="83" width="147" height="22"/>
+                                <rect key="frame" x="134" y="119" width="147" height="22"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Z6D-jC-jr8">
+                                <rect key="frame" x="148" y="580" width="118" height="44"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="BradleyHandITCTT-Bold" family="Bradley Hand" pointSize="25"/>
+                                <state key="normal" title="Take Photo"/>
+                                <connections>
+                                    <action selector="takePictureTapped:" destination="Lbr-D8-bzm" eventType="touchUpInside" id="rvV-0c-hNu"/>
+                                </connections>
+                            </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="image" translatesAutoresizingMaskIntoConstraints="NO" id="A0e-hp-z3Q">
+                                <rect key="frame" x="41" y="207" width="333" height="261"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qVU-vb-rIL">
+                                <rect key="frame" x="98" y="510" width="218" height="42"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="BradleyHandITCTT-Bold" family="Bradley Hand" pointSize="24"/>
+                                <state key="normal" title="Choose From Library"/>
+                                <connections>
+                                    <action selector="photoLibraryTapped:" destination="Lbr-D8-bzm" eventType="touchUpInside" id="aNU-2Y-k0V"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="0.40000000000000002" green="0.40000000000000002" blue="0.59999999999999998" alpha="1" colorSpace="calibratedRGB"/>
                         <viewLayoutGuide key="safeArea" id="clJ-Be-R8p"/>
                     </view>
                     <navigationItem key="navigationItem" id="1bN-Sl-tzo"/>
+                    <connections>
+                        <outlet property="displayImage" destination="A0e-hp-z3Q" id="4dL-HE-00u"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="DL9-tR-avU" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="972" y="1309"/>
+            <point key="canvasLocation" x="971.01449275362324" y="1308.4821428571429"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="iMJ-h4-oGS">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="hRY-If-0F3" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="UBr-Dg-aav">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="yaw-JD-2XF"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="lPm-Iw-vzY" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="228.98550724637684" y="301.33928571428572"/>
         </scene>
     </scenes>
     <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -833,6 +877,7 @@
         <image name="gluten free 4" width="500" height="454"/>
         <image name="gluten free 5" width="500" height="454"/>
         <image name="gluten free 6" width="500" height="454"/>
+        <image name="image" width="1080" height="1080"/>
         <image name="nut free 1" width="1244" height="1244"/>
         <image name="nut free 2" width="568" height="568"/>
         <image name="nut free 3" width="568" height="568"/>

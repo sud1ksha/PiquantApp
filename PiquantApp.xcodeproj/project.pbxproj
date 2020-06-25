@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01B878CA24A53588008D699D /* ImportViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B878C924A53588008D699D /* ImportViewController.swift */; };
 		42A7C96724A5062900B51AE5 /* hyperlink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7C96624A5062900B51AE5 /* hyperlink.swift */; };
 		42C820B524A290FB00E2037B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42C820B424A290FB00E2037B /* AppDelegate.swift */; };
 		42C820B724A290FB00E2037B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42C820B624A290FB00E2037B /* SceneDelegate.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		01B878C924A53588008D699D /* ImportViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportViewController.swift; sourceTree = "<group>"; };
 		42A7C96624A5062900B51AE5 /* hyperlink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hyperlink.swift; sourceTree = "<group>"; };
 		42C820B124A290FB00E2037B /* PiquantApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PiquantApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42C820B424A290FB00E2037B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				42C820B624A290FB00E2037B /* SceneDelegate.swift */,
 				42C820B824A290FB00E2037B /* ViewController.swift */,
 				42C820BA24A290FB00E2037B /* Main.storyboard */,
+				01B878C924A53588008D699D /* ImportViewController.swift */,
 				42C820C024A2910100E2037B /* Assets.xcassets */,
 				42C820C224A2910100E2037B /* LaunchScreen.storyboard */,
 				42C820C524A2910100E2037B /* Info.plist */,
@@ -147,6 +150,7 @@
 				42C820B924A290FB00E2037B /* ViewController.swift in Sources */,
 				42A7C96724A5062900B51AE5 /* hyperlink.swift in Sources */,
 				42C820B524A290FB00E2037B /* AppDelegate.swift in Sources */,
+				01B878CA24A53588008D699D /* ImportViewController.swift in Sources */,
 				42C820BF24A290FB00E2037B /* PiquantApp.xcdatamodeld in Sources */,
 				42C820B724A290FB00E2037B /* SceneDelegate.swift in Sources */,
 			);
